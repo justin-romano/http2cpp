@@ -2,7 +2,7 @@
 converts html to string include file for embeaded systems so you can use your favourite editor/IDE to write your IoT web pages 
 
 ```console
-html2cpp index.html index.h index_h
+:\>html2cpp.exe index.html index.h index_h
 ```
 will read a file like
 ```html
