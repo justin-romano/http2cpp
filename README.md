@@ -20,7 +20,7 @@ will read a file like
 </body>
 ```
 and out put it like this
-```c
+```++
 String index_h = 
 "<head>\r\n"
 "    <script>\r\n"
@@ -35,4 +35,9 @@ String index_h =
 "    test this\r\n"
 "</body>\r\n"
 ;
+```
+as index.h
+you just then include it.
+```c++
+#include "index.h"
 ```
