@@ -20,7 +20,7 @@ will read a file like
 </body>
 ```
 and out put it like this
-```cpp
+```c
 String index_h = 
 "<head>\r\n"
 "    <script>\r\n"
